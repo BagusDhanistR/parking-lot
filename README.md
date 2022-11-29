@@ -1,6 +1,6 @@
-# parking-lot
-This is a mini project about ticketing on parking lot
-this project has unit testing using jest and supertest 
+# Parking Ticketing
+This is a mini project about ticketing on parking ticketing  <br />
+this project has unit testing using jest and supertest  <br />
 run testing by using command  `npm run test`
 
 ## Ticket
